@@ -1,0 +1,41 @@
+body	{font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#333333; margin: 0 0 0 0; background-image:url(../images/bg.gif); background-repeat: repeat-x;}
+* {margin:0; padding:0;}
+h1	{font-weight:100; color:#B42512; margin-top: 30px;}
+h2	{font-weight:100; color:#4D8CC1; font-style:italic; margin-top:20px}
+p	{ margin-top:10px; line-height:125%;}
+ul	{ margin-left:30px; margin-top:10px;}
+#width 	{width: 820px; margin-left: auto; margin-right: auto;}
+#main	{background-color:#FFFFFF; width:800}
+#buttons ul {margin-top: 14px;}
+#buttons ul li {list-style: none; display: inline; margin-right:30px; font-size:14px;}
+
+#footer	{font-size: 11px; margin-top:30px; margin-bottom:10px;}
+#std-bg	{width:750px; margin-left: auto; margin-right: auto; margin-top:0; padding: 20px 40px 40px 40px; background-color:#FFFFFF; border-left-style:solid; border-left-width:thin; border-left-color:#cccccc; border-right-style:solid; border-right-width:thin; border-right-color:#cccccc; border-bottom-style:solid; border-bottom-width:thin; border-bottom-color:#cccccc;}
+#home-bg{width:750px; margin-left: auto; margin-right: auto; margin-top:0; padding: 20px 40px 40px 40px;}
+.active	{margin-top:4px;}
+.tagline{font-family:Times New Roman, Times, serif; font-size:28px; font-style:italic; color:#4D8CC1; margin-left:20px;}
+.offset-20	{margin-left: 20px;}
+.home-header	{margin-bottom:-8px; font-weight:100; color:#B42512; }
+.home-text		{width:158px}
+.float-right	{ float:right; margin:  20px 0 20px 20px}
+.float-left	{ float:left; margin:  20px 20px 20px 0}
+.caption	{font-size:11px; margin-left:20px;}
+.small		{font-size:11px;}
+.red	{color:#B42512;}
+a:link 		{color: #2E57B4; text-decoration: none;}
+a:visited 	{color: #2E57B4; text-decoration: none;}
+a:hover 	{color: #B42512; text-decoration: none;}
+a:active 	{color: #2E57B4; text-decoration: none;}
+a.reverse:link 		{color: #FFFFFF; text-decoration: none;}
+a.reverse:visited 	{color: #FFFFFF; text-decoration: none;}
+a.reverse:hover 	{color: #FFFFFF; text-decoration: underline; }
+a.reverse:active 	{color: #FFFFFF; text-decoration: underline;}
+a.home-header:link 		{color:#B42512; text-decoration: none;}
+a.home-header:visited 	{color:#B42512; text-decoration: none;}
+a.home-header:hover 	{color:#B42512; text-decoration: underline; }
+a.home-header:active 	{color:#B42512; text-decoration: underline;}
+table.collapse {border-width:1px; border-style:solid; border-color:#ff9900; border-collapse:collapse;}
+
+
+
+

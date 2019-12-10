@@ -1,0 +1,25 @@
+###############################
+#
+#
+User-agent: *
+#
+# list folders robots are not allowed to index 
+#
+Disallow: /prototype/
+
+
+#
+# list specific files robots are not allowed to index
+#
+Disallow: /index.htm
+Disallow: /index.html
+Disallow: /contact.html
+Disallow: /contract_sewing.html
+Disallow: /cutting_services.html
+Disallow: /design_development.html
+Disallow: /samples.html
+
+
+# 
+#
+###############################

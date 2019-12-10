@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Home :: Kaiser Manufacturing Inc.</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" type="text/css" href="../css/std.css">
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="width"><!-- #BeginLibraryItem "/Library/page-top.lbi" -->
+
+<table width="100%" style="margin-top:15px; color:#FFFFFF"><tr><td>
+<a href="../index.html"><img src="../images/logo.gif" alt="Kaiser Manufacturing Inc." width="158" height="50" border="0" /></a></td><td align="right"><a class="reverse" href="../contact.html">Contact us</a> about your next project<br />
+<a class="reverse" href="../contact.html">kaiser@kaisermfginc.com</a><br />
+651.458.8880</span></td></tr></table>
+<!-- #EndLibraryItem --><div id="buttons"><!-- #BeginLibraryItem "/Library/buttons.lbi" -->
+
+<ul>
+<li><a class="reverse" href="../index.html">Home</a></li>
+<li><a class="reverse" href="../contract_sewing.html">Contract Sewing</a></li>
+<li><a class="reverse" href="../design_development.html">Design/Development</a></li>
+<li><a class="reverse" href="../cutting_services.html">Cutting Services</a></li>
+<li><a class="reverse" href="../samples.html">Samples</a></li>
+<li><a class="reverse" href="../history.html">History</a></li>
+<li><a class="reverse" href="../contact.html">Contact Us</a></li>
+</ul>
+<!-- #EndLibraryItem --><!-- TemplateBeginEditable name="Active Arrow" -->
+<p class="active" style="margin-left:50px"><img src="../images/arrow_active.gif" alt=" " /></p>
+<!-- TemplateEndEditable -->
+</div>
+
+<table width="820"  align="center" border="0" bgcolor="#FFFFFF"><tr><td>
+<h1>Headline</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetuer  adipiscing elit. Suspendisse potenti. Nullam auctor pede at ipsum. Ut  elementum, sapien sit amet dapibus lacinia, diam libero nonummy justo, non  egestas pede libero a lectus. </p>
+	<p>Morbi porta. Lorem ipsum dolor sit amet, consectetuer  adipiscing elit. Suspendisse potenti. Nullam auctor pede at ipsum. Ut  elementum, sapien sit amet dapibus lacinia, diam libero nonummy justo, non  egestas pede libero a lectus. Morbi porta. </p></td>
+</tr></table>
+</div>
+<div id="footer"><!-- #BeginLibraryItem "/Library/footer.lbi" -->
+
+<table align="center" background="../images/bg_footer.gif" height="100"><tr><td valign="top" width="250">
+<a href="../index.html">KAISER Manufacturing Inc.</a><br />
+94 21st Street<br />
+Newport, MN 55055</td>
+
+<td width="360">
+Phone:  651.458.8880<br />
+Fax:  651.458.8885<br />
+<a href="mailto:kaiser@kaisermfginc.com">kaiser@kaisermfginc.com</a></td>
+
+<td align="right">
+Quality Textile Products<br />
+Made in the U.S.A.</td>
+<td><img src="../images/flag.gif" alt="Made in the USA" width="53" height="23" /></td>
+</tr></table>
+<!-- #EndLibraryItem --></div>
+
+</body>
+</html>
